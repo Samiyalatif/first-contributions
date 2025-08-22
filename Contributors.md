@@ -16,6 +16,7 @@
 - [Rohit Chaware](https://github.com/R4Rohit23)
 - [Ankur Verma](https://github.com/ankur55220/)
 - [Hammad](https://github.com/7ammad404)
+- [Samiya lateef](https://https://github.com/Samiyalatif)
 - [Sangamesh Math](https://github.com/sangamesh-Math)
 - [Vinil Jose](https://github.com/viniljose)
 - [Emmanuel Ogheneovo Awefada](https://github.com/EmmanuelOvo-js)
